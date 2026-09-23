@@ -1,0 +1,10 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+terraform.tfstate.backup
+terraform.tfvars
+*.tfvars
+*.tfvars.json
+*.key
+*.pem
+credentials.json
